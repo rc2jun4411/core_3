@@ -1,0 +1,34 @@
+/* This css is in root folder core_3.3_Getting_started_with_CSS */
+hr {
+    border: none;
+    height: 2px;
+    background-color: cyan;
+}
+h1 {
+    color: red;
+}
+p,
+li {
+    color: green;
+}
+
+.special {
+    color: orange;
+    font-weight: bold;
+}
+
+li em {
+    color: rebeccapurple;
+}
+a:link {
+    color: pink;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    text-decoration: none;
+}
+

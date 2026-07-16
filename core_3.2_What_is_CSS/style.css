@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    font-size: 1.5em;
+}
+
+p {
+    color: aqua;
+    padding: 5px;
+    background: midnightblue;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: cyan;
+}

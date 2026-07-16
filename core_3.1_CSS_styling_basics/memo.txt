@@ -1,0 +1,16 @@
+ref 1. https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/
+        Styling_basics
+      In this article:
+        ・Tutorials and challenges
+        ・Test your skills
+        ・Additional tutorials  
+
+2026-07-12, working
+folder: C:\Users\rc2ju\Documents\MDN\3.Learn\core_3\core_3.1_CSS_styling_basics\memo.txt
+
+actions
+1. Preparations
+
+1.1 create folder "core_3.1_CSS_styling_basics"
+1.2 edit index.html, style.css per ref 1.
+1.3 

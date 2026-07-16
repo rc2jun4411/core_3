@@ -1,0 +1,9 @@
+/* this css is in folder "styles" */
+hr {
+    border: none;
+    height: 2px;
+    background-color: cyan;
+}
+h1 {
+    color: red;
+}

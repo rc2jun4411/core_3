@@ -1,0 +1,32 @@
+ref 4. https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/
+          Styling_basics/Styling_a_bio_page
+      In this article;
+        ・Starting point
+        ・Project brief
+        ・Hints and tips
+        ・Example 
+
+ref 4.1 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+    4.2 CSS properties, see ref 4.1 above.
+        ・background-color
+        ・border or related longhand properties.
+        ・color
+        ・font-size
+        ・font-style
+        ・font-weight
+        ・margin or related longhand properties.
+        ・padding or related longhand properties.
+        ・text-decoration
+        ・width
+    4.3 https://jigsaw.w3.org/css-validator/
+        CSS validation
+
+2026-07-13, working
+folder: C:\Users\rc2ju\Documents\MDN\3.Learn\core_3\core_3.4_Challenge_Styling_a_biography_page\memo.txt
+
+actions
+1. Preparations
+
+1.1 create folder "core_3.4_Challenge Styling a biography page"
+1.2 edit index.html, style.css per ref 4.
+1.3 

@@ -1,0 +1,62 @@
+ref 3. https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/
+              Styling_basics/Getting_started
+       In this article;
+        ・Starting with some HTML
+        ・Adding CSS to our document
+        ・Using common selectors
+        ・Other CSS syntax features
+        ・Summary
+ref 3.1 https://www.iana.org/help/example-domains
+       Example Domains:
+        <a href="https://example.com">link</a>
+
+2026-07-13, working
+folder: C:\Users\rc2ju\Documents\MDN\3.Learn\core_3\core_3.3_Getting_started_with_CSS\memo.txt 
+
+actions
+1. Preparations
+
+1.1 create folder "core_3.3_Getting_started_with_CSS"
+1.2 edit index.html, style.css per ref 3.
+1.2.1 Starting with some HTML, edit index.html 
+1.2.2 Adding CSS to our document, edit index.html
+1.2.3 External stylesheets, edit index.html at <head></head>
+      Locating stylesheets in different places;
+       <link rel="stylesheet" href="styles.css" />
+       <link rel="stylesheet" href="styles/style.css"> 
+       <link rel="stylesheet" href="styles/general/styl
+       e.css">
+      added folder "styles", subfolder "general" 
+        "ex-1" 
+1.2.4 Internal stylesheets
+        "ex-2"
+1.2.5 Inline css
+        "ex-3"
+1.2.5 Selecting HTML elements, ==multiple selector==
+        "ex-4"
+1.2.6 Adding a class,
+      Styling things based on their location in a document
+      <li> に充てるcss(in file style.css) line-11, -20が競合 =>先のli(line-11)が有効か？　
+        "ex-5"
+1.2.7 Styling things based on state
+= Notes =
+  This has different states depending on whether it is 
+unvisited, visited, being hovered over, focused via the keyboard,
+  or in the process of being clicked (activated). You can use 
+CSS to target these different states 
+
+— the CSS below styles unvisited links pink and 
+                       visited links green.
+
+CSS:
+a:link {
+  color: pink;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  text-decoration: none;
+}

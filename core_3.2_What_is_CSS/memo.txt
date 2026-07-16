@@ -1,0 +1,22 @@
+ref 2. https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/
+                Styling_basics/What_is_CSS
+      In this article:
+       ・Browser default styles
+       ・What is CSS for?
+       ・CSS syntax basics
+       ・How is CSS applied to HTML?
+       ・Play with some CSS
+       ・Summary
+ref 2.1 https://developer.mozilla.org/en-US/play
+
+
+
+2026-07-12, working
+folder: C:\Users\rc2ju\Documents\MDN\3.Learn\core_3\core_3.2\memo.txt
+
+actions
+1. Preparations
+
+1.1 create folder ""
+1.2 edit index.html, style.css per ref 2.
+1.3 

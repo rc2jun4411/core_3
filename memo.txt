@@ -1,2 +1,9 @@
 core_3 is dummy file to accomodate core_3.1 to 3.5.
 add workspace "core_3.code-workspace"
+add folders;
+    core_3.1_CSS_styling_basics
+    core_3.2_What_is_CSS
+    core_3.3_Getting_started_with_CSS
+    core_3.4_Challenge_Styling_a_biography_page
+    core_3.4_Challenge_Styling_a_biography_page
+Gihub, 5th commit.

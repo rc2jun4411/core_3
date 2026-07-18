@@ -6,19 +6,35 @@ hr {
 }
 
 body {
-    font-family: sans-serif;
+  font-family: sans-serif;
 }
 
 .box p {
   color: red;
 }
 
-/* 行間無し(0%) で直前の行に改行して続く */
+/* 行間無し(0%) で直前の行に改行して続く
 p {
   line-height:0%;
 }
+*/
 
 ul > li {
   border-top: 5px solid red;
   
 }
+
+h1+p {
+  font-weight: bold;
+  background-color: #333333;
+  color: white;
+  padding: 0.5em;
+}
+
+/* h1~p {
+  font-weight: bold;
+  background-color: #333333;
+  color: white;
+  padding: 0.5em;
+} */
+ 

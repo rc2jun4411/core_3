@@ -1,0 +1,50 @@
+/* This css is in root folder core_3.3_Getting_started_with_CSS */
+hr {
+    border: none;
+    height: 2px;
+    background-color: cyan;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+li[class] {
+    font-size: 120%;
+}
+
+
+li[class="a"] {
+    background-color: yellow;
+}
+
+/* target "a" and "a b", not to "ab" */
+li[class~="a"] {
+    color: red;
+}
+
+li[class="n"] {
+    color: white;
+    background-color: purple;
+}
+
+/* Matches elements with an attr attribute,
+   whose value begins with value. 
+   means: "a" and "ab" */
+li[class^="a"] {
+    font-size: 100%;
+}
+
+/* Matches elements with an attr attribute,
+   whose value ends with value.
+   means: "bca" */
+li[class$="a"] {
+    background-color: yellow;
+}
+
+/* 	Matches elements with an attr attribute, 
+    whose value contains value anywhere within the string.
+    means: "a", "ab", "bca" and "bcabc" */
+li[class*="a"] {
+    color: red;
+}

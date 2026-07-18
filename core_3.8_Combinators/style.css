@@ -1,0 +1,24 @@
+/* This css is in root folder core_3.3_Getting_started_with_CSS */
+hr {
+    border: none;
+    height: 2px;
+    background-color: cyan;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.box p {
+  color: red;
+}
+
+/* 行間無し(0%) で直前の行に改行して続く */
+p {
+  line-height:0%;
+}
+
+ul > li {
+  border-top: 5px solid red;
+  
+}

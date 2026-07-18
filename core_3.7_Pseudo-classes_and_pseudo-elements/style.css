@@ -1,0 +1,81 @@
+/* This css is in root folder core_3.3_Getting_started_with_CSS */
+hr {
+    border: none;
+    height: 2px;
+    background-color: cyan;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+li[class] {
+    font-size: 120%;
+}
+
+.first {
+    font-size: 120%;
+    font-weight: bold;
+}
+
+a:link,
+a:visited {
+  color: rebeccapurple;
+  font-weight: bold;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+.red-input:focus {
+  background: yellow;
+  color: red;
+}
+
+.blue-input:focus {
+  background: yellow;
+  color: lime;
+}
+
+article p::first-line {
+  font-size: 120%;
+  font-weight: bold;
+}
+
+article p:first-child::first-line {
+  font-size: 120%;
+  font-weight: bold;
+  color:darkmagenta;
+}
+
+.box::before {
+    content: "This should show before the other content. ";
+    background-color: yellow;
+}
+.box::after {
+    content: "This should show after the other content. ";
+    background-color: lightskyblue;
+}
+.box1::after {
+    content: " ➥";
+}
+
+.box2::before {
+    content: "box2-before";
+    display: block;
+    width: 100px;
+    height: 20px;
+    color:white;
+    background-color: rebeccapurple;
+    border: 1px solid green;
+}
+.box2::after {
+    content: "box2-after";
+    display: block;
+    width: 100px;
+    height: 20px;
+    color: white;
+    background-color: rebeccapurple;
+    border: 1px solid green;
+}

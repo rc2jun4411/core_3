@@ -1,0 +1,28 @@
+ref 7. https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/
+                Styling_basics/Pseudo_classes_and_elements
+        In this article;
+         ・What is a pseudo-class?
+         ・What is a pseudo-element?
+         ・Combining pseudo-classes and pseudo-elements
+         ・Generating content with ::before and ::after
+         ・Summary
+         ・See also
+
+ref 7.1 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/Pseudo-classes
+        Pseudo-classes
+ref 7.2 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/Pseudo-elements
+        Pseudo-elements
+
+
+2026-07-17, working
+folder: C:\Users\rc2ju\Documents\MDN\3.Learn\core_3.5_Basic_CSS_selectors\core_3\core_3.7_Pseudo-classes_and_pseudo-elements\memo.txt
+        
+actions
+1. Preparations
+1.1 copy folder "core_3.6_Attribute_selectors" to 
+                "core_3.7_Pseudo-classes_and_pseudo-elements"        
+2, edit
+2.1 edit index.html, style.css per ref 7.
+2.1.1 pseudo-class, hover and focus ex-2, ex-3
+2.1.2 pseudo-element, ex-4
+2.1.3 Combining pseudo-classes and pseudo-elements, ex-5

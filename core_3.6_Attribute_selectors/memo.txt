@@ -1,0 +1,19 @@
+ref 6. https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/
+                Styling_basics/Attribute_selectors
+        In this article;
+         ・The basic concept of attribute selectors.
+         ・Presence and value attribute selectors.
+         ・Substring matching attribute selectors.
+
+
+2026-07-17, working
+folder: C:\Users\rc2ju\Documents\MDN\3.Learn\core_3.5_Basic_CSS_selectors\core_3\core_3.6_Attribute_selectors\memo.txt
+
+actions
+1. Preparations
+
+1.1 copy folder "core_3.5_Basic_CSS_selectors" to
+                "core_3.6_Attribute_selectors"        
+1.2 edit index.html, style.css per ref 6.
+1.2.1 Li[class]
+ 

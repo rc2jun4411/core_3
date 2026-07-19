@@ -1,0 +1,38 @@
+/* This css is in root folder core_3.3_Getting_started_with_CSS */
+hr {
+    border: none;
+    height: 2px;
+    background-color: cyan;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+/* for Selectors 1 */
+h1 {
+  color: blue;
+}
+h2 {
+  background-color: blue;
+  color: white;
+}
+span {
+  font-size: 200%;
+}
+
+/* for Selectors 2 */
+#special {
+  background-color: yellow;
+}
+.alert {
+  border: 2px solid grey;
+}
+.alert.stop {
+  background-color: red;
+}
+.alert.go {
+  background-color: green;
+}
+
+/* for Selectors 3 */

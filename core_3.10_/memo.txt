@@ -1,0 +1,19 @@
+ref 9. https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/
+        Styling_basics/Test_your_skills/Selectors
+      In this article;
+      　・Selectors 1
+      　・Selectors 2
+      　・Selectors 3
+      　・Selectors 4
+      　・Selectors 5
+
+2026-07-18, working
+folder: C:\Users\rc2ju\OneDrive\Documents\core_3\core_3.9_Test_your_skills_Selector\memo.txt
+
+actions
+1. Preparations
+1.1 copy folder "core_3.8_Combinators" to
+                "core_3.9_Test_your_skills_Selector"
+2. edit
+2.1 edit index.html, style.css per ref 9.
+2.1.1 ex-1, Selectors 1

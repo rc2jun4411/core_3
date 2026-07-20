@@ -1,0 +1,19 @@
+ref 10. https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/
+            Styling_basics/Box_model
+        Block and inline elements;
+         ・The different boxes that make up an element and how to style them — content, margin, border, padding.
+         ・The alternative box model (accessed via box-sizing: border-box) and how it differs from the regular box model.
+         ・Margin collapsing.
+         ・Basic display values and how they affect box behavior — block, inline, inline-block, none.
+
+
+2026-07-19, working
+folder: 
+
+actions
+1. Preparations
+1.1 copy folder "core_3.9_Test_your_skills_Selector" to
+                "core_3.10_The_box_model"
+2. edit
+2.1 edit index.html, style.css per ref 10.
+2.1.1 ex-1, Block and inline boxes

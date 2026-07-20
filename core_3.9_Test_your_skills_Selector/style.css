@@ -36,3 +36,67 @@ span {
 }
 
 /* for Selectors 3 */
+.container p:first-child {
+  font-size: 150%;
+}
+
+.container p:first-child::first-line {
+  color: red;
+}
+
+a:link {
+  color: orange;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+tr:nth-child(even) {
+  background-color: #333333;
+  color: white;
+}
+
+/* for Selectors 4 */
+h2+p {
+  color: red;
+}
+
+.list>li {
+  list-style: none;
+  border-bottom: 1px solid #cccccc;
+}
+
+/* for Selectors 5 */
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+a {
+  display: block;
+  padding: 0.5em;
+}
+
+/* for Selectors 5 mod.*/
+.a1 {
+  border: 5px solid green;
+}
+.a2 {
+  border: 5px solid pink;
+}
+.a3 {
+  border: 5px solid orange;
+}
+.a4 {
+  border: 5px solid purple;
+}

@@ -1,0 +1,19 @@
+ref 11. https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/
+            Styling_basics/Test_your_skills/Box_model
+        In this article;
+        ・Interactive challenge
+        　・Box model 1
+        　・Box model 2
+        　・Box model 3
+
+2026-07-20, working
+folder: C:\Users\rc2ju\OneDrive\Documents\core_3\core_3.11_Test_your_skills_The_box_model\memo.txt
+
+actions
+1. Preparations
+1.1 copy folder "core_3.10_The_box_model" to
+                "core_3.11_Test_your_skills_The_box_model"
+2. edit
+2.1 edit index.html, style.css per ref 11.
+
+

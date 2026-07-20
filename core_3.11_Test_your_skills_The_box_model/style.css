@@ -24,3 +24,16 @@ body {
 }
 
 /* Box model 2 */
+.box1 {
+  border: 5px dotted black;
+  margin: 20px 1em 40px 2em;
+  padding: 1em;
+}
+
+/* Box model 3 */
+.box2 span {
+  background-color: pink;
+  border: 5px solid green;
+  padding: 1em;
+  display: inline-block;
+}

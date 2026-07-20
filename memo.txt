@@ -5,5 +5,12 @@ add folders;
     core_3.2_What_is_CSS
     core_3.3_Getting_started_with_CSS
     core_3.4_Challenge_Styling_a_biography_page
-    core_3.4_Challenge_Styling_a_biography_page
+    core_3.5_Basic_CSS_selectors
 Gihub, 5th commit.
+    core_3.6_Attribute_selectors
+    core_3.7_Pseudo-classes_and_pseudo-elements
+    core_3.8_Combinators
+    core_3.9_Test_your_skills_Selector
+    core_3.10_The_box_model
+    core_3.11_Test_your_skills_The_box_model
+Gihub, 11th commit.

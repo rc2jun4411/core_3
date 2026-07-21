@@ -7,18 +7,10 @@ add folders;
     core_3.4_Challenge_Styling_a_biography_page
     core_3.5_Basic_CSS_selectors
 Gihub, 5th commit.
-<<<<<<< HEAD
 add folders;
-=======
->>>>>>> d003837161833652761a3e2f3ec8a4f6e0d2ebb3
     core_3.6_Attribute_selectors
     core_3.7_Pseudo-classes_and_pseudo-elements
     core_3.8_Combinators
     core_3.9_Test_your_skills_Selector
     core_3.10_The_box_model
     core_3.11_Test_your_skills_The_box_model
-<<<<<<< HEAD
-
-=======
-Gihub, 11th commit.
->>>>>>> d003837161833652761a3e2f3ec8a4f6e0d2ebb3

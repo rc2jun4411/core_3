@@ -1,0 +1,18 @@
+ref 12. https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/
+            Styling_basics/Handling_conflicts
+        Understand how rules can conflict in CSS.
+        Inheritance.
+        The cascade.
+        The main concepts that govern the outcome of conflicts — specificity, source order, and importance.
+
+2026-07-21, working
+folder: C:\Users\rc2ju\OneDrive\Documents\core_3\core_3.12_Handling_conflict\memo.txt
+
+actions
+1. Preparations
+1.1 copy folder "core_3.11_Test_your_skills_The_box_model" to
+                "core_3.12_Handling_conflict"
+2. edit
+2.1 edit index.html, style.css per ref 12.
+
+

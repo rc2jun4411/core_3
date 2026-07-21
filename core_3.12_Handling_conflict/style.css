@@ -1,0 +1,18 @@
+/* This css is in root folder core_3.3_Getting_started_with_CSS */
+hr {
+    border: none;
+    height: 2px;
+    background-color: cyan;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+/* ex-1 */
+h1 {
+  color: red;
+}
+h1 {
+  color: blue;
+}

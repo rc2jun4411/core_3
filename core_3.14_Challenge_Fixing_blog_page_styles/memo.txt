@@ -1,0 +1,20 @@
+ref 14. https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/
+            Styling_basics/Fixing_blog_styles
+        In this article;
+        　・Starting point
+        　・Project brief
+        　・Hints and tips
+        　・Example
+
+2026-07-23, working
+folder: C:\Users\rc2ju\OneDrive\Documents\core_3\core_3.14_Challenge_Fixing_blog_page_styles\memo.txt
+
+actions
+1. Preparations
+1.1 copy folder "core_3.13_Test_your_skills_The_Cascade" to
+                "core_3.14_Challenge_Fixing_blog_page_styles"
+2. edit
+2.1 edit index.html, style.css per ref 14.
+
+GitHub 17th commit
+    

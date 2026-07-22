@@ -14,5 +14,39 @@ actions
                 "core_3.12_Handling_conflict"
 2. edit
 2.1 edit index.html, style.css per ref 12.
-
-
+    Handling conflicts;
+    2.1.1 Conflicting rules
+        　同じselectorがあった場合、後で定義したselectorが有効になる。
+    2.1.2 Specificity
+　　　　 A type (element) selector is less specific; 
+            it will select all elements of that type that appear on a page, 
+            so it has less weight. 
+            Pseudo-element selectors have the same specificity as regular element selectors.
+        A class selector is more specific; 
+        　　it will select only the elements on a page that have a specific class attribute value, so it has more weight. Attribute selectors and pseudo-classes have the same weight as a class.
+        An ID selector is even more specific — 
+        　　it only selects a single element with a specific id value. 
+        　　It therefore has even more weight.
+    2.1.3 Inheritance
+    2.2 Understanding inheritance　継承
+    2.2.1 Controlling inheritance, five special universal property values for controlling inheritance. 
+          inherit, 
+          initial, 
+          revert, 
+          revert-layer, 
+          unset
+        Playing with inheritance control properties
+        ex-5; Playing with inheritance control properties
+    2.3 Resetting all property values
+    2.3.1 ex-6; 
+    2.4 Understanding the cascadeThere are three factors to consider, listed here in increasing order of importance. Later ones overrule earlier ones:
+        Source order
+        Specificity
+        Importance
+    2.4.1 ex-7;
+    2.5 In-depth specificity example
+    2.5.1 ex-8;
+    2.6 IDs versus classes, Inline styles, !important
+    2.6.1 ex-9;
+    
+16th commit 2026-07-22
